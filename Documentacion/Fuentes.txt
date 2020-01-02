@@ -1,0 +1,23 @@
+- Todo lo que necesitas saber de Stellar: https://www.bitcobie.com/stellar/
+- What is Stellar? https://support.blockchain.com/hc/en-us/articles/360019105171-What-is-Stellar-
+- What is Stellar blockchain: https://www.investopedia.com/news/what-stellar/
+- ¿Qué son los pagos SWIFT? https://transferwise.com/es/help/15/pagar-por-tu-transferencia/2553074/que-son-los-pagos-swift
+- Agencias de envío de dinero: https://www.bbva.com/es/pagos-internacionales-transferencia-swift-otros-medios-pago/
+- Envío de dinero por WU: https://www.westernunion.com/mx/es/send-money-faq.html
+- ¿Qué es Ripple?: https://es.cointelegraph.com/ripple-101/what-is-ripple
+- Stellar cumple 5 años desarrollando una blockchain para servicios financieros: https://www.criptonoticias.com/redes-protocolos/stellar-cumple-5-anos-blockchain-servicios-financieros/
+- 26 criptomonedas ancladas a fíat serán lanzadas en Stellar: https://www.criptonoticias.com/mercados/precios-trading/26-criptomonedas-ancladas-fiat-lanzadas-stellar/
+
+- IBM: https://www.stellar.org/case-studies/ibm-blockchain-world-wire
+- Satoshipay: https://www.stellar.org/case-studies/satoshipay
+
+Videos
+- Stellar Lumens: https://www.youtube.com/watch?v=OuvvK-kSzWE&list=PLgo3Qtdm2bOMKyzFGy-B3MiDAGPIeqbKP&index=6
+- Stellar Nodes, Network, and the Ledger: https://www.youtube.com/watch?v=sTQuGoBeKto
+- Stellar Assets and Anchors: https://www.youtube.com/watch?v=sTQuGoBeKto
+- Why IBM Built World Wire on Stellar: https://www.youtube.com/watch?time_continue=2&v=GtQY8Jfa4NA&feature=emb_title
+
+Sitios web
+- Lumenatus.com: https://www.lumenauts.com/
+- Stellar: https://www.stellar.org
+- Stellar-SDK: https://stellar-sdk.readthedocs.io/en/latest/install.html

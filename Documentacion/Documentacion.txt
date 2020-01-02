@@ -1,0 +1,323 @@
+¿Qué es Stellar?
+    
+    Stellar es un protocolo de pago descentralizado de código abierto que permite transacciones rápidas y baratas entre cualquier par de monedas. Las transacciones en la red Stellar se realizan en lúmenes (XLM), que son totalmente compatibles con Blockchain Wallet.
+
+    La plataforma Stellar es sobre todo una herramienta para realizar transferencias de divisas normales, pero también posee su propia criptodivisa, Lumens.
+
+    Stellar tiene valor por si misma, pero a diferencia del Bitcoin, no está diseñada para ser utilizada como un medio de pago. Más bien está diseñada para ser un intermediario de último recurso para la conversión de divisas.
+
+    Igual que Ripple, es una criptomoneda no minable, se crearon 100.000 millones de tokens. La fundación Stellar tiene la misión de repartir el 95% de los tokens, entre personas aleatorias, titulares de Bitcoin o Ripple. El 5% de los tokens se reservan para mantener los costes operativos de la misma.
+
+    Detrás de esta plataforma se encuentra Jed McCaleb, le recordarás por ser el programador de Ripple en 2011, dejó la empresa en el año 2013 y se enfocó en crear Mt.Gox, el primer echange de Bitcoin que vendió y cesó sus operaciones en 2014, provocando una caída sin precedentes del mercado.
+
+    Su socio es Matt Mullenweg, desarrollador web y creador de WordPress.
+
+    Esta plataforma financiera baja considerablemente los costos de transacciones entre criptodivisas, además permite comprar Bitcoin con dólares ahorrando las altas comisiones de los exchange más conocidos y además lo consigue en un tiempo bastante aceptable.
+
+Diferencias entre Stellar y Ripple
+
+    Como puedes observar estas dos plataformas comparten padre, eso hace que sean realmente parecidas, pero el hecho de que Stellar sea más joven que Ripple hace pensar que da solución a diferentes problemas y tiene un futuro más prometedor para la comunidad Blockchain.
+
+    Aún así veremos una serie de diferencias:
+
+    Filosofía
+        Es una diferencia fundamental, Stellar es una plataforma de código abierto sin animo de lucro, su objetivo es promover el acceso y la inclusión financiera. Se ha asociado con operadores globales e instituciones financieras, haciendo mucho énfasis en ayudar a los más desfavorecidos.
+
+        Ripple es una entidad financiera con claro ánimo de lucro que está fomentando la creación de una red de pagos para las grandes instituciones financieras. Su objetivo es que todos los bancos basen sus transacciones en la tecnología de Ripple.
+    
+    Diferencias tecnológicas
+        Stellar nace como un hard fork de Ripple en 2014, pero lo cierto es que ahora mismo no comparten apenas nada de código, aunque puedan emplear una semántica parecida.
+
+        El protocolo de consenso de Stellar es fruto del trabajo de David Mazieres y está enfocado hacia la seguridad y corrección del coste. Mientras que Ripple usa el voto probabilístico, algo infinitamente diferente que depende de la validación mayoritaria.
+
+    Descentralización
+        Ripple sin duda está mucho más centralizado que Stellar, ejecuta su Ledger donde son ellos mismos quienes determinan quien puede actuar como validador de las transacciones de su red.
+
+        Stellar posee un Ledger abierto al que cualquiera puede acceder para consultarlo o unirse a él.
+    
+    Programabilidad
+        Stellar es muy partidario de los desarrollos de terceros. Programas como el Stellar Build Challenge recompensa a desarrolladores que crean tecnología útiles para la red.
+
+    Equipo
+        Ripple ha recaudado más de 90 millones de dólares, eso ha propiciado que su plantilla haya crecido en más de 200 empleados.
+
+        Mucho menos recaudo en sus comienzos Stellar, 3 millones y cuenta con alrededor de 20 empelados. Todos los empleados de la fundación Stellar tienen impresionantes credenciales, ingenieros de Rockstar, gran parte del equipo de MIT, Stanford, Harvard etc...
+    
+    Marketing
+        Stellar está trabajando en conseguir increíbles alianzas, que tengan un impacto en el mercado, como bien puede ser IBM, pero no cuenta con la maquinaria de marketing y relaciones públicas con la que cuenta Ripple.
+
+        Al estar centrado más en individuos y no en grandes corporaciones tampoco se aprovecha de sus maquinarias de marketing.
+        lumens y stellar
+
+Lumens, la criptomoneda de la plataforma Stellar
+    Aunque la gente se refiera a ellos como Stellar pasa como en el caso de la red Ethereum y los Ethers. Quizás por comodidad hablamos de ellos con el nombre correcto, por eso es importante que seas consciente de que te hablan cuando la gente usa la palabra Lumens
+
+¿Qué son los Lumens?
+    Un Lumen (XLM) es una unidad de moneda digital, como es el caso de Bitcoin. Los lúmenes son el activo de la red Stellar. Están integrados en la red.
+
+    Lógicamente los Lumen no los puedes tener en la mano, son un activo digital, pero son esenciales para el funcionamiento de la red de Stellar ya que contribuyen a la capacidad de transferir dinero alrededor del mundo de manera rápida y segura.
+
+    En el año 2014 cuando se lanzó Stellar el nombre era el mismo para sus tokens, pero fue en el año 2015, cuando se mejoró la red y se diferenció en su totalidad del Código de Ripple cuando los tokens pasaron a llamarse Lumens.
+
+¿Por qué la red Stellar necesita Lumens?
+    Los Lumens tienen un papel de antispam en la blockchain de Stellar. Eso lo consigue porque son necesarios los Lumens para hacer una transacción y para evitar cuentas con saldos vacíos, de esa forma se evita que las personas saturen la red.
+
+    Las transacciones tienen un coste de 0.00001 Lumen. Esta tarifa que los usuarios con malas intenciones ahoguen la red con un ataque DoS que consumiría un gran espacio en la blockchain.
+
+    Stellar ha puesto en funcionamiento el requisito de que todas las cuentas tengan un saldo mínimo de 0,5 Lumens, esto incita a los usuarios a mantener limpia la blockchain con la eliminación de las cuentas abandonadas. De esa forma todas las cuentas que conforman la red de Stellar tienen una utilidad económica.
+
+    Los Lumens tienen un papel de antispam en la blockchain de Stellar
+
+    Los Lumens actúan de puente entre divisas que no tienen un gran mercado directo.
+
+¿Necesito Lumens para usar la red Stellar?
+    La red Stellar es de código abierto y está disponible para que todo el mundo la pueda usar, pero si es cierto que los usuarios van a necesitar Lumen para pagar las comisiones de las transacciones y para abrir cuentas dentro de la red.
+
+¿Cómo están distribuidos los tokens Lumens?
+    De la misma manera que el protocolo Ripple, Stellar, no permite minar Lumens, nació con 100.000 millones de tokens que se distribuyen de la siguiente manera:
+
+        50% Regalado a los individuos: Se reparten cantidades pequeñas que oscilan entre los 50 y 300 XLM a cada individuo que se inscriba mediante una invitación. Esa invitación la puedes recibir por parte de los socios o asistiendo a un MeetUp organizado por la fundación Stellar
+        25% Regalado a los socios: Se reparten a empresas, gobiernos, instituciones y ONGS que contribuyan al crecimiento y a la adopción de Stellar
+        20% Titulares de Bitcoin y Ripple: Este reparto se completó mediante dos rondas de sorteo, en octubre del 2016 y en agosto del 2017. Se repartió un 19% a usuarios de Bitcoin y un 1% a usuarios de Ripple. Es importante que sepas que la fundación Stellar no pretende realizar ningún otro sorteo.
+        5% Reservado a los gastos operativos de la fundación Stellar.
+
+Ventajas e inconvenientes de Stellar
+    Como prácticamente todos los proyectos que copan el mercado, este tiene aspectos positivos y aspectos negativos, en este caso su fortaleza “moral” frente a Ripple parece tener más peso que cualquier otro aspecto.
+   
+    Pros
+        Las transacciones de la plataforma Stellar son muchísimo más rápidas que las transacciones de Bitcoin.
+        Las comisiones son realmente ridículas, pero permiten que la plataforma sea un ecosistema protegido ante un ataque DoS.
+        Uno de sus principales socios es el gigante IBM
+        El equipo que forma la fundación Stellar es uno de los mejores del mercado, eso siempre es buen síntoma.
+        La plataforma tiene capacidad de lanzar ICOs.
+
+    Contras
+        Una de las razones por la que llamó la atención al público fue la altísima rentabilidad que ofreció Ripple a sus inversores. Las similitudes de los proyectos hacen que los precios de uno y otro prácticamente fluctúen al compás de la misma canción.
+        No está totalmente descentralizado, aunque el reparto de los tokens es diferente que los tokens de Ripple, actualmente más de un 90% de los mismos están en poder de la fundación Stellar.
+
+    Esto puede provocar cierta desconfianza ya que, aunque los indicios digan lo contrario, podría llegar a haber una saturación del mercado tras una distribución masiva de tokens.
+    invertir en stellar
+
+
+Cómo invertir en Stellar sin morir en el intento
+
+    Bien como bien sabes, una vez que has estudiado bien el proyecto, tienes claro que tiene una viabilidad y por supuesto has sopesado los riesgos que supone invertir en criptomonedas, querrás saber como hacerlo sin tirar tus ahorros por la borda.
+
+    Elegir una Wallet
+        Según la web de Stellar ahora mismo, sin contar exchanges, hay 12 wallets disponibles para almacenar tus Lumens. Recuerda que tienes que elegir bien la wallet en función a tus necesidades.
+
+        Si pretendes hacer una inversión fuerte para mantenerla a medio/largo plazo es mejor que te decidas por hacer un pequeño gasto y adquieras una hardwallet. Por contra, si lo que quieres es experimentar, puedes usar sin problema una wallet para tu móvil.
+
+            Wallets de escritorio: Ledger, StelllarTerm, Stellar Desktop Client y Stargazer
+            Wallets para Smart Phone: Lobstr, Centaurus, Papaya, Interstellar, Stargazer
+            Wallets Online: Stronghold, Astral, Stellarport, Saza, Stellarterm, Lobstr, Papaya, Interstellar
+
+    Comprar Lumens
+        Bien, una vez que ya has elegido la wallet que más se adecue a tus necesidades es hora de elegir donde adquirir tus tokens de Stellar.
+
+        De momento no hay ningún sitio que te permita comprar directamente con dinero FIAT tokens de Stellar, por lo tanto, tendrás que adquirir antes Bitcoin o Ethereum. Después tendrás que intercambiarlos por Lumens en un exchange.
+
+        Para comprar Bitcoin o Ethereum ya sabes que el servicio más conocido es Coinbase, aunque últimamente nosotros hemos probado el servicio de la empresa española Bit2me y estamos muy contentos, además de tener unas comisiones más bajas.
+
+        También puedes adquirir tus Bitcoins en LocalBitcoins.com es una manera segura y directa de hacerlo.
+
+        Una vez tengas tus criptomonedas deberás elegir un exchange donde intercambiarlas por Lumens. Aquí puedes consultar la lista de Exchanges que permiten su negociación:
+
+        Exchanges con Stellar listado
+
+        Verás que los preferidos por los inversores son Binance, Upbit, Gopax y Poloniex.
+
+Conclusión
+    En su forma, Stellar parece un proyecto más limpio que Ripple. El concepto a mi me parece el mismo, aunque su tecnología es diferente y lo cierto es que el enfoque es totalmente opuesto.
+
+    Al tratarse de un medio de pago, estaríamos hablando de un protocolo no de una criptomoneda. Su plataforma seguro que puede ayudar mucho a la evolución de la tecnología Blockchain. Mientras no se desvíen de su rumbo es un proyecto que promete mucho.
+
+    Su alianza con IBM la convierte en un serio rival para Ripple que tendrá que ver como poco a poco le va alcanzando debido al apoyo de la comunidad.
+
+    Si tu idea es invertir en criptomonedas por primera vez, quizás la plataforma Stellar no es la más indicada. Si eres ya un inversor experimentado, empaparte del proyecto, estudiarlo y añadirlo a tu porfolio parece siempre una idea interesante.
+
+    Desde Bitcobie te aconsejamos a vigilar siempre dos factores, la distribución de sus tokens que llegado el momento podrían tumbar el precio y la dependencia a Ripple. La gente buscó Stellar como alternativa y sus precios van muy de la mano.
+
+    Si se produjera una hecatombe en Ripple, la sufrirás también en Stellar, aunque quizás una vez pasada la tormenta, sea Stellar el único barco que siga a flote.
+
+*************************************************************************************
+What is Stellar?
+    Stellar is an open-source, decentralized payment protocol that allows for fast, cross-border transactions between any pair of currencies. Like other cryptocurrencies, it operates using blockchain technology. Its native asset, a digital currency, is called lumen (XLM). XLM powers the Stellar network and all of its operations, similarly to how ether (ETH) powers the Ethereum network.
+
+How does Stellar’s blockchain work?
+    Transactions that take place on the Stellar network are added to a shared, distributed, public ledger, a database accessible by anyone worldwide. In order to reach consensus on transactions so quickly and accurately, Stellar uses its own unique consensus method.
+
+How does Stellar’s consensus method work?
+    Stellar’s consensus method allows for fast and cheap transactions, with everyone on the network reaching agreement about transaction validity within a few seconds. Every participant (called a node) who helps add Stellar transactions to the global ledger chooses its own mini-network of other trusted participants that it agrees with. As long as these mini-networks (called quorum slices) overlap, the overall Stellar network can reach agreement about which transactions are valid and can be added to the ledger very quickly. You can read about how Stellar’s consensus mechanism works in greater detail in this article.
+
+Where is the value of Stellar derived from?
+    Stellar is useful and valuable because it is a global exchange network, capable of hosting thousands of exchanges between currencies and tokens per second. Exchanging between cryptocurrencies and/or fiat currencies can be a lengthy and expensive process; Stellar makes exchanging swift and cheap. XLM, the asset that will be supported within the Blockchain Wallet, is used to pay transaction fees and maintain accounts on the Stellar network.
+
+
+***********************************************************************************
+What Is Stellar? 
+    Stellar is an open-source payment technology that shares several similarities with Ripple. Its founder, Jed McCaleb (pictured), also co-founded Ripple. (See also: Ripple Is Back: Here's Why.)
+
+    Much like Ripple, Stellar is also a payment technology that aims to connect financial institutions and drastically reduce the cost and time required for cross-border transfers. In fact, both payment networks used the same protocol initially.     
+    
+    However, this is where the similarities end. 
+
+    A fork in Stellar’s protocol in early 2014 ended up with the creation of the Stellar Consensus Protocol (SCP). Both systems also have foundational differences. While Ripple is a closed system, Stellar is open source.
+
+    They also have different customers. Ripple works with established banking institutions and consortiums in order to streamline their cross-border transfer technology. In contrast, Stellar is focused on developing markets and has multiple use cases for its technology, including money remittances and bank loan distribution to the unbanked. (See also: Top Non-Bitcoin Altcoins For Your Portfolio.) 
+
+How Does Stellar Work? 
+    Stellar's basic operation is similar to that of most decentralized payment technologies. It runs a network of decentralized servers with a distributed ledger that is updated every 2 to 5 seconds among all nodes. The most prominent distinguishing factor between Stellar and bitcoin is its consensus protocol.
+
+    Stellar’s consensus protocol does not rely on the entire miner network to approve transactions. Instead, it uses the Federated Byzantine Agreement (FBA) algorithm, which enables faster processing of transactions. This is because it uses quorum slices (or a portion of the network) to approve and validate a transaction. 
+
+    Each node in the Stellar network chooses another set of “trustworthy” nodes. Once a transaction is approved by all nodes within this set, then it is considered approved. The shortened process has made Stellar's network extremely fast and it is said to process as many as 1,000 network operations per second. 
+
+How Does Stellar Expedite Cross-Border Transfers? 
+    The current process for cross-border transfers is a complicated one. It requires domestic banks to maintain accounts in foreign jurisdictions in local currencies. Their correspondent banks must operate a similar account in the original country.
+
+    The Nostro-Vostro process, as it is known, for cross-border transactions with fiat currencies is a lengthy one involving conversion and reconciliation of accounts. Because it enables simultaneous validation, Stellar’s blockchain can shorten or eliminate the delays and complexity involved.
+
+    Stellar’s Lumens cryptocurrency can also be used to provide liquidity and streamline the process. According to some reports, banks will use their own cryptocurrencies to facilitate such transfers in the future. According to David Mazières, a Stanford University professor and SCP creator, the protocol has “modest” computing and financial requirements. This enables even organizations with minimal IT budgets, such as nonprofits, to participate in its network. 
+
+How Many Institutions Are Using Stellar’s Blockchain? 
+    Stellar came into the spotlight in October 2017 after it announced a partnership with IBM. The partnership envisages the setting up of multiple currency corridors among nations in the South Pacific.
+
+    The project has a stated goal of processing up to 60 percent of all cross-border payments in the region, which includes countries like Australia, Fiji, and Tonga. This will enable connections between small businesses, non-profits, and local banking institutions to expedite commercial transactions. For example, a farmer in Samoa will be able to connect and conduct transactions with a buyer in Indonesia.
+
+    In 2016, prominent technology consulting firm Deloitte also announced a partnership with Stellar to develop a payments app. At a conference in 2017, McCaleb confirmed that 30 banks have signed up to use Stellar’s blockchain for cross-border transfers. Payment service Stripe has removed bitcoin and left the door open for Stellar on its platform. (See also: Crypto-coin Stellar Spikes Up On Stellar Support.) 
+
+
+***********************************************************************************
+¿Qué son los pagos SWIFT?
+
+    Los pagos SWIFT son transferencias internacionales enviadas por el sistema de mensajería interbancario SWIFT.
+     
+    El sistema internacional de mensajería interbancario SWIFT es uno de los más grandes en el mundo. TransferWise envía y recibe transferencias en algunas divisas por medio del pago SWIFT.
+    
+    Comisiones de las transferencias SWIFT
+        - Seguramente tu banco te cobrará una comisión por realizar el pago SWIFT a la cuenta bancaria de TransferWise. 
+        
+        - Cuando el pago está en camino, los bancos corresponsales podrán descontar de la cantidad transferida sus gastos de tramitación. Tu banco debería informarte del precio de los mismos.
+        
+        - Si el dinero fue enviado directamente a tu balance multidivisa, no hay nada más que necesites hacer, nosotros lo depositaremos allí sin importar la cantidad que recibamos.
+        
+        - Cuando envíes a través de SWIFT, asegúrate de que tu banco cubre cualquier gasto asociado con el pago. 
+
+    Tiempo de transferencia para pagos SWIFT
+        Los pagos SWIFT usualmente toman de 2 a 5 días laborables en llegar a su destino, pero es posible que tome más tiempo debido a la diferencia horaria entre el país de envío y de recepción, o por los multiples bancos intermediarios involucrados en hacernos llegar el dinero.
+
+***********************************************************************************
+Agencias de envío de dinero
+
+    Este es el método por excelencia que utilizan los inmigrantes, sean del país que sean, para enviar dinero a sus países de origen. El mecanismo es más sencillo, dado que se entrega una cantidad de dinero en efectivo en una agencia del país A, y a los pocos minutos, el beneficiario puede recoger ese dinero en la oficina de la agencia del país B a la que se haya enviado el dinero.
+
+    En estos casos, ni emisor ni receptor necesitan tener cuentas bancarias en los países de origen y destino. Esta rapidez presenta un coste adicional importante, en donde las comisiones son muy altas, pudiendo ser hasta de un 10% sobre la cantidad de dinero enviada. Como operadores podemos destacar a Western Union o Money Gram entre otros.
+
+    Todos los medios de pago internacionales están supeditados a las distintas leyes y normas financieras de cada país, tanto en obligaciones de comunicación de datos a los distintos estados, como en los límites que se pueden enviar o recibir.
+
+***********************************************************************************
+¿Qué es Ripple? Todo lo que necesitas saber sobre Ripple y XRP 
+
+    Lo primero que hay que saber es que Ripple es tanto una plataforma como una moneda. La plataforma Ripple es un protocolo de código abierto que está diseñado para permitir transacciones rápidas y baratas.
+
+    A diferencia de Bitcoin, que nunca fue concebido como una simple máquina de pago, Ripple va a regir definitivamente todas las transacciones internacionales en todo el mundo. Bastante ambicioso, pero ¿quién sabe? Tal vez los cambios de divisas desaparecerán en unos años como lo hicieron las tiendas Blockbuster.
+
+    La plataforma tiene su propia moneda (XRP), pero también permite a todo el mundo utilizar la plataforma para crear la suya propia a través de RippleNet.
+
+¿Qué es RippleNet?
+
+    RippleNet es una red de proveedores de pagos institucionales como bancos y empresas de servicios monetarios que utilizan soluciones desarrolladas por Ripple para proporcionar una experiencia sin complicaciones para enviar dinero a nivel mundial.
+
+    Demos un ejemplo: Primero, el Sr. Jones vive en Nueva York y tiene una caja de chocolate que no necesita. Está muy interesado en ver un partido de béisbol, pero no tiene boleto. En segundo lugar, la Sra. Smith vive en Los Ángeles y tiene un artículo coleccionable raro que le gustaría regalar por una caja de chocolate. Por último, tenemos al Sr. Brown, que vive en Alaska y busca mucho un raro artículo coleccionable, y el tiene un boleto para un partido de béisbol en Nueva York.
+
+    En nuestro sistema actual, estas personas probablemente nunca se encontrarían y permanecerían con sus objetos de valor "no valiosos".
+
+    Pero en el mundo Ripple podrían decir: "Hey, tengo chocolate, quiero béisbol" y el sistema buscará la combinación más corta y barata para hacerlo posible.
+
+    Además, la plataforma permite realizar pagos en cualquier divisa incluyendo Bitcoin y tener una comisión mínima de transacción interna de $0.00001, sí, es la cantidad correcta de ceros. La única razón por la que no es gratis es para prevenir ataques DDos.
+
+Qué es XRP
+
+    XRP es un token usado para representar la transferencia de valor a través de la Red Ripple. El propósito principal de XRP es ser un mediador en el cambio de monedas – tanto para criptomonedas como para fiat. La mejor manera de describir XRP es un 'Joker'. No el espeluznante enemigo de Batman, sino como el naipe que puede ser cualquier otro naipe. Si deseas cambiar dólares por euros, puede ser dólar con dólares y euro con euros para minimizar la comisión. Como se mencionó anteriormente, el costo de transacción en Ripple es de $0.00001.
+
+    Un dato curioso: después de la transacción la cantidad de $0.00001 'desaparece' de la plataforma y no puede ser repuesta. Así que, con cada transacción el mundo se vuelve $0.00001 más pobre. Está diseñado para prevenir ataques de spammers.
+
+Quién creó Ripple (XRP)
+
+    El protocolo como prototipo de trabajo se creó en 2004.
+    Pero la verdadera historia comienza en 2013, cuando Jed McCaleb, el creador de la red EDonkey, invitó a un grupo de inversores de primer nivel mundial a invertir en Ripple Labs.
+    Quiénes son los fundadores de Ripple Labs
+
+¿Qué es el algoritmo de consenso del protocolo Ripple (RPCA)?
+
+    A diferencia de Bitcoin o Ethereum, Ripple no tiene una red Blockchain. Una criptomoneda sin una Blockchain puede sonar bastante extraño - si no tiene una Blockchain, ¿cómo verifica las transacciones y se asegura de que todo está bien? Para ello, Ripple cuenta con su propia tecnología patentada: el algoritmo de consenso del protocolo Ripple (RPCA).
+
+    La palabra 'consenso' en el nombre significa que si cada nodo está de acuerdo con todos los demás, no hay ningún problema. Imaginemos, hay una antigua arena con cien ancianos sabios y una ciudad necesita el acuerdo de todos ellos para tomar una decisión. Si todo el mundo está de acuerdo, se puede empezar una guerra, poner fin a una guerra, aumentar los impuestos, proclamar los juegos olímpicos y todo tipo de cosas interesantes. Pero si uno de ellos no lo hace, no pasará nada hasta que averigüemos cuál es su problema.
+
+¿Para qué se usa Ripple?
+
+    1.- Para el cambio de divisas con baja comisión. Hay muchas monedas que no pueden ser convertidas directamente entre sí. Por lo tanto, los bancos necesitan utilizar el dólar estadounidense como mediador. Por lo tanto, hay una doble comisión: convertir la “moneda A” a USD y USD a la “moneda B”. Ripple hace las veces de un mediador, pero mucho más barato que el USD.
+
+    2.- Transacciones internacionales rápidas. El tiempo promedio de transacción es de 4 segundos. Compárelo con una hora o más para Bitcoin y unos días para los sistemas bancarios normales.
+
+    3.- Ecosistema de pago. El usuario puede básicamente emitir su propia moneda para realizar transacciones rápidas y baratas. Por ejemplo, se puede crear una moneda para comprar y ver películas antiguas o para intercambiar figuras de acción entre coleccionistas.
+
+¿Cuáles son los beneficios de Ripple?
+
+    - Ripple está originalmente diseñado como un sistema de pago diario, por lo que es mucho más útil que Bitcoin en estos casos. Como resultado, las transacciones son mucho más rápidas y baratas.
+
+    - Ripple ha comenzado como una organización oficial, ya que su objetivo principal es ser utilizado por los bancos. Por lo tanto, no es objeto de múltiples controles de regulación como muchas otras criptomonedas.
+
+    - Ripple tiene la capacidad de ser cambiado a cualquier moneda o valor (como el oro) con una comisión mínima unificada.
+
+Qué bancos apoyan a Ripple
+
+    Santander
+
+    Axis Bank
+
+    Yes Bank
+
+    Westpac
+
+    Union Credit
+
+    NBAD
+
+    UBS
+
+¿Es Ripple una buena inversión?
+    Descargo de responsabilidad: no existe tal cosa como una inversión 100% segura, y cada decisión tiene sus riesgos. En cualquier caso, eres tu quien debe decidir. Sin embargo, a continuación, se presentan algunas ventajas y desventajas que pueden ayudarte.
+
+    Pros:
+        Como se ha destacado anteriormente, Ripple es una organización oficial con la confianza de muchos bancos - no se trata de una nueva red Blockchain de una empresa desconocida.
+
+        Sin inflación. Todas las monedas XRP se extrajeron en un principio y ya existen.
+
+        Cuantos más bancos lo utilicen como plataforma de transacciones, mayor será el valor del XRP. Si un día, todos los bancos deciden empezar a utilizarlo como una moneda bancaria unificada en lugar de procesar los cambios en divisas FIAT, hará una buena fortuna para todos los que invirtieron en Ripple tempranamente.
+
+    Cons:
+        Está muy centralizado. La idea de las criptomonedas es evitar el control centralizado. Como cada moneda de XRP ya está minada, los desarrolladores de Ripple pueden decidir cuándo y cuánto liberar, o no liberar. Por lo tanto, es básicamente como invertir en un banco.
+
+        Además de la centralización, hoy en día es casi como un monopolio ya que Ripple Labs posee el 61 por ciento de las monedas.
+
+        Es código abierto - una decisión muy inteligente, pero una vez que el código es accesible para todos hay una buena posibilidad de que mucha gente intente piratearlo. Algunos de ellos incluso podrían tener éxito.
+
+
+*************************************************************************
+Stellar cumple 5 años desarrollando una blockchain para servicios financieros
+
+    Stellar cumple 5 años. Esta blockchain, enfocada en la creación de soluciones bancarias y financieras, ha ido creciendo poco a poco a lo largo de los años. El principal objetivo del proyecto es brindar una red sobre la que se puedan crear soluciones financieras de largo alcance y a bajo costo para los no bancarizados.
+
+    Esta blockchain fue creada por el programador estadounidense Jed McCaleb, y el también desarrollador Matt Mullenweg, creador de WordPress. McCaleb, además, trabajó en la fundación de Ripple (XRP) y fue el creador de Mt. Gox, una casa de cambio de bitcoins extinta, que llegó a ser la más importante del mercado hasta su hackeo. El código fue escrito en los lenguajes de programación C++, Go, Java, JavaScript, Python y Ruby.
+
+    Stellar utiliza una red de servidores descentralizados a través de la que se pueden ejecutar transacciones económicas a bajo costo y con tiempos de confirmación reducidos. Una característica importante de Stellar es que permite el intercambio entre cualquier par de monedas dentro de su propio protocolo de funcionamiento y cuenta con operadores financieros que también permiten acceder a dinero fiduciario.
+
+    Otro elemento llamativo es que Stellar contribuye al funcionamiento de más de 20 proyectos de monedas de paridad o stablecoins, gracias a una alianza con la firma de tarjetas de débito basadas en blockchain, Wirex, anunciada en abril de este año. Stellar completó una alianza con IBM para el funcionamiento de IBM World Wire, una red que permitirá a los bancos que participen emitir sus propios criptoactivos, sustentados en la blockchain de Stellar.
+
+    El desarrollo del protocolo está en manos de Stellar Development Foundation, una organización sin fines de lucro que gestiona los cambios y mejoras de la plataforma. Es la voz oficial del proyecto, desde donde se anuncian sus lanzamientos y nuevas características. La fundación se mantiene en funcionamiento pues existe un fondo de 5% del total de XLM destinado a su financiamiento, cubriendo los costos operativos. La organización también recibe donativos.
+
+    Sin embargo, ha tenido sus tropiezos. Cabe recordar que en marzo de este año se dio a conocer que un atacante creó 2,25 mil millones de XLM de la nada, aprovechando un error en el código del cliente de Stellar. Lo llamativo es que este suceso no fue dado a conocer por la fundación: sencillamente quemaron el excedente sin reportar el hecho en su momento.
+
+    Tras 5 años, la criptomoneda nativa de Stellar, lumen (XLM) tiene un precio de USD 0,084292, con un volumen de intercambio de USD 90.684.862 en las últimas 24 horas. Stellar está entre los primeros 10 proyectos de criptomonedas más valiosos en cuanto a capitalización de mercado, con un total de USD 1.653.611.906. Actualmente circulan un total de 19.617.690.658 XLM. El total creado de esta criptomoneda es de 105.202.876.590 XLM.
