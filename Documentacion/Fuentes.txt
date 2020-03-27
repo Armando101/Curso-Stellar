@@ -11,6 +11,10 @@
 - IBM: https://www.stellar.org/case-studies/ibm-blockchain-world-wire
 - Satoshipay: https://www.stellar.org/case-studies/satoshipay
 
+- ¿Qué es Stellar Lumnes? Una guía para principiantes: https://www.finder.com/mx/stellar
+- ¿Cómo comprar Stellar Lumnes?: https://www.finder.com/mx/como-comprar-stellar-lumens
+- ¿Cómo enviar remesas con criptomonedas?: https://es.cointelegraph.com/explained/how-to-send-remittances-with-crypto-currencies
+
 Videos
 - Stellar Lumens: https://www.youtube.com/watch?v=OuvvK-kSzWE&list=PLgo3Qtdm2bOMKyzFGy-B3MiDAGPIeqbKP&index=6
 - Stellar Nodes, Network, and the Ledger: https://www.youtube.com/watch?v=sTQuGoBeKto

@@ -1,0 +1,10 @@
+¿En qué consiste el protocolo de Stellar?
+¿Los lumens por comisión donde quedan? ¿En la red?
+¿Cómo se minan bloques si no hay minación de criptomonedas?
+¿Cuál es el incentivo de los mineros?
+¿Saldo es un nodo ancla? ¿Es el único en México?
+¿Este nodo recibe las comisiones por transacción?
+Si quiero hacer una transacción que tengo ¿qué cambiar en el código?
+Una vez creo
+¿Puedo cambiar la comisión a la que yo quiera?
+El propósito de los lumnes es pagar transacciones (comisión) pero al ser un token también se puede especular con él y variar el precio de cada XLM
